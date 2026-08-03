@@ -40,4 +40,4 @@ Students are expected to:
 - preserve evidence of engineering decisions and testing; and
 - submit the completed repository as directed by the instructor.
 
-Additional project files and instructions will be provided separately in MyCourses.
+Additional project files, duedates and instructions will be provided separately in MyCourses.
